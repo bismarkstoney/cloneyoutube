@@ -4,9 +4,10 @@
 
 - Node
 - Express
-- Tailwing
+- Tailwind
 - Auth0
 - Passportjs
 - MongoDB
+- Pug Template
 
   # How to setup the projects
