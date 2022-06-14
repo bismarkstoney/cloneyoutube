@@ -1,0 +1,18 @@
+{
+  "name": "youtube-clone",
+  "version": "1.0.0",
+  "description": "Upload and share videos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Upload",
+    "Video"
+  ],
+  "author": "Bismark Obeng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
